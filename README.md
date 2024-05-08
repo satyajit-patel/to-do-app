@@ -12,3 +12,4 @@ The TO-DOIT App is a web-based application developed to help users manage their 
 - Javascript
 - HTML
 - CSS
+- Bootstrap
